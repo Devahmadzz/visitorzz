@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Nigerian Customs Service Visitor"
+    },
+    {
+      "path": "/display/",
+      "title": "Customer Display | Nigerian Customs Service Visitor"
+    }
+  ]
+}
